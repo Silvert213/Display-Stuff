@@ -1,0 +1,39 @@
+body{
+    background-color: maroon;
+    color: whitesmoke;
+}
+.important{
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    background-color: #421C0A;
+    border:4px #804a00 ;
+    border-style: solid;
+    margin: 5px;
+}
+
+.copper{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    background-color: #b37538;
+    margin: 5px;
+    display: inline-block;
+}
+.pale{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    background-color: #96450d;
+    margin: 5px;
+    padding: 20px;
+    display: inline-block;
+}
+.rust{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    background-color: #8C411D;
+    margin: 5px;
+    display: inline-block;
+}
